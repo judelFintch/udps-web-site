@@ -7,13 +7,19 @@
         
         <link rel="stylesheet" href="{{asset('assets/homeswiper.css')}}">
         <link rel="stylesheet" href="{{asset('assets/navigation.css')}}">
+
+       
     </head>
     
     <body class="overflow-hidden overflow-y-auto lg:!overflow-y-auto">
         @include('partials.nav')
             @yield('content')
         @include('partials.footer')
-        <script src="assets/homeswiper.js"></script>
-        <script src="assets/navigation.js"></script>
-    </body>
+        <!-- appfootet -->
+        <script src="{{asset('assets/navigation.js')}}"></script>
+        <script src="{{asset('assets/homeswiper.js')}}"></script>
+   
+
+</body>
+
 </html>
