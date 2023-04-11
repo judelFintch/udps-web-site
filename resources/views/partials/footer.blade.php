@@ -122,8 +122,8 @@
                 © 2023 UDPS tout droit reserve.
             </div>
             <div class="">
-                Designed by <a target="_blank" href="https://github.com/code-camp-drc"
-                    class="font-semibold">Code-Camp-DRC</a>
+                Designed by <a target="_blank" href="https://fintchweb.com"
+                    class="font-semibold">Fintchweb</a>
             </div>
         </div>
     </div>
