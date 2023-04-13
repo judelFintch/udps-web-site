@@ -181,7 +181,7 @@
 <section class="a-section">
     <div class="appcontainer section-d-2 relative">
         <div class="section-bloc-with-image relative">
-            <div class="absolute w-4 h-20 -left-0 -rotate-45 rounded-full bg-red-400 top-4 z-20"></div>
+            
             <div class="boxsectionImg">
                 <img src="/images/image4.webp" alt="images present" width="1980" height="auto">
             </div>
